@@ -1,0 +1,54 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "natrium.clans",
+	"name": "Geometry Clans",
+	"version": "v1.0.0",
+	"developer": "Natrium",
+	"description": "Adds Clans!",
+	"resources": {
+		"files": [
+			"resources/JoinClan.plist"
+		],
+		"sprites": [
+			"resources/profile_button.png",
+			"resources/badges/bg/badge_bg_1.png",
+			"resources/badges/bg/badge_bg_1_highlight.png",
+			"resources/badges/bg/badge_bg_2.png",
+			"resources/badges/bg/badge_bg_2_highlight.png",
+			"resources/badges/bg/badge_bg_3.png",
+			"resources/badges/bg/badge_bg_3_highlight.png",
+			"resources/badges/bg/badge_bg_4.png",
+			"resources/badges/bg/badge_bg_4_highlight.png",
+			"resources/badges/bg/badge_bg_5.png",
+			"resources/badges/bg/badge_bg_5_highlight.png",
+			"resources/badges/bg/badge_bg_6.png",
+			"resources/badges/bg/badge_bg_6_highlight.png",
+			"resources/badges/icon/badge_icon_1.png",
+			"resources/badges/icon/badge_icon_2.png",
+			"resources/badges/icon/badge_icon_3.png",
+			"resources/badges/icon/badge_icon_4.png",
+			"resources/badges/icon/badge_icon_5.png",
+			"resources/badges/icon/badge_icon_6.png",
+			"resources/badges/icon/badge_icon_7.png",
+			"resources/badges/icon/badge_icon_8.png",
+			"resources/badges/icon/badge_icon_9.png",
+			"resources/badges/icon/badge_icon_10.png",
+			"resources/badges/icon/badge_icon_1_highlight.png",
+			"resources/badges/icon/badge_icon_2_highlight.png",
+			"resources/badges/icon/badge_icon_3_highlight.png",
+			"resources/badges/icon/badge_icon_4_highlight.png",
+			"resources/badges/icon/badge_icon_5_highlight.png",
+			"resources/badges/icon/badge_icon_6_highlight.png",
+			"resources/badges/icon/badge_icon_7_highlight.png",
+			"resources/badges/icon/badge_icon_8_highlight.png",
+			"resources/badges/icon/badge_icon_9_highlight.png",
+			"resources/badges/icon/badge_icon_10_highlight.png"
+		]
+	}
+}
